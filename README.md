@@ -7,7 +7,6 @@ Enter Signed Integer Part.
 20
 Enter Fraction as Binary String.
 0101
-<br>
 Exponent In Decimal: 128
 Sign Bit: 0
 All Bits of the Floating Point Number are: 
